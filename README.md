@@ -4,10 +4,10 @@
 My Private Repository for my GUI Csu Class.
 
 
-Name:Carson Parker.
+Name: Carson Parker.
 
 
-Class Name and Term:GUI Development, Spring 2025.
+Class Name and Term: GUI Development, Spring 2025.
 
 
 Languages you want to learn (or learn more about):Id like to learn about Javascript or Css.
