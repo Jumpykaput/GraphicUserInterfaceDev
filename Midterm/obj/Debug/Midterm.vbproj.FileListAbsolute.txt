@@ -1,0 +1,12 @@
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.vbproj.AssemblyReference.cache
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.frmMeasurementConverter.resources
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.Resources.resources
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.vbproj.GenerateResource.cache
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.vbproj.CoreCompileInputs.cache
+C:\Users\Carso\source\repos\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\Carso\source\repos\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\Carso\source\repos\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\Carso\source\repos\Midterm\Midterm\bin\Debug\Midterm.xml
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.xml
+C:\Users\Carso\source\repos\Midterm\Midterm\obj\Debug\Midterm.pdb
