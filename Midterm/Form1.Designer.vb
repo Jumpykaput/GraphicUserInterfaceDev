@@ -72,7 +72,7 @@ Partial Class frmMeasurementConverter
         'txtInput
         '
         Me.txtInput.BackColor = System.Drawing.Color.Purple
-        Me.txtInput.Location = New System.Drawing.Point(620, 122)
+        Me.txtInput.Location = New System.Drawing.Point(640, 122)
         Me.txtInput.Multiline = True
         Me.txtInput.Name = "txtInput"
         Me.txtInput.Size = New System.Drawing.Size(98, 32)
